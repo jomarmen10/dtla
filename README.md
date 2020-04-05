@@ -1,4 +1,4 @@
 # Trace
 
 
-Preview: ![preview](https://i.imgur.com/kHzd4qY.png)
+Preview: ![preview](https://raw.githubusercontent.com/jomarmen10/jomarmen10.github.io/master/img/trace.png)
